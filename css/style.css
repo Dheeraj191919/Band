@@ -1,0 +1,157 @@
+body{
+  overflow-x: hidden;
+}
+#showcase-1{
+    background-image: url(../images/band.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    padding-left: 20px;
+}
+
+.box-1{
+    padding-top: 100px;
+    padding-left: 20px;
+    color: #1089ff;
+    font-family: 'Crete Round', serif;
+}
+
+#showcase-1 .btn{
+    margin: 2% 0% 5% 2%;
+  }
+
+
+
+
+  /* navbar///////////////////////////////////////////////////////////////////////////////////// */
+
+
+  .navbar{
+    background-color: black
+  }
+  
+  .nav-item{
+    text-decoration: none;
+    border-radius: 10px;
+    color:  white;
+    padding: 0 18px;
+  }
+  .nav-item:hover{
+    background-color:  yellow;
+  }
+  
+  .nav-link{
+    color: #fff;
+  }
+  
+  .navbar-brand{
+    color: yellow;
+    font-family: 'Dancing Script', cursive;
+  }
+  .navbar-brand:hover{
+    color: yellow;
+  }
+
+/* showcase-2//////////////////////////////////////////////////////////////////////////////// */
+
+
+
+
+#testimonials{
+  background-color: #252525;
+  color: red;
+  text-align: center;
+  padding-top: 70px;
+    padding-left: 20px;
+    padding-bottom: 70px;
+    color: #1089ff;
+    font-family: 'Crete Round', serif;
+    line-height: 3;
+}
+.testimonial-image{
+  max-width: 100%;
+  height: auto;
+  display:block;
+
+  }
+ 
+
+  /* showcase-3///////////////////////////////////////////////////////////////////////// */
+
+  /* #showcase-3{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family: 'Crete Round', serif;
+  background-color: white;
+  color: black
+  
+
+  }
+  
+  .box-3{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2
+  }
+
+  .img1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  }
+
+  .img2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  }
+
+  .img3{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  } */
+
+  /* navbar/////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+/* showcase 4 .......whote section//////////////////////////////////////////////////////////////////////////////// */
+  #showcase-4{
+    background-image: url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: auto;
+  display: block;
+    width: auto;
+  }
+  .box-4{
+    background-color:rgba(14, 1, 6, 0.7);
+    width:100%; 
+    height:100vh;
+    text-align: center;
+    padding-top: 250px;
+    color: crimson;
+  }
+
+
+  /* showcase-5/////////////////////////////////////////////////////////////////////// */
+
+#showcase-5{
+  height: auto;
+  display: block;
+  background-color: #ce2e6c;
+  
+  font-family: 'Crete Round', serif;
+  text-align: center;
+  padding-top: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: azure
+
+}
+
+#showcase-5 .btn{
+  margin: 2% 2% 5% 2%;
+}
